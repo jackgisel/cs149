@@ -1,0 +1,4 @@
+print jack
+ls
+ls -latr
+pwd
