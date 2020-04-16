@@ -1,4 +1,2 @@
 print jack
-ls
-ls -latr
-pwd
+print jack
